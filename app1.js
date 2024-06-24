@@ -1,4 +1,4 @@
-let playerText = document.getElementById('player')
+let player = document.getElementById('player')
 let restartBtn = document.getElementById('restartBtn')
 let boxes = Array.from(document.getElementsByClassName('box'))
 
