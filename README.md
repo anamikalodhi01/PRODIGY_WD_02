@@ -4,13 +4,13 @@
 
 ### Features
 
-**Two Player Mode**: Basic functionality for two players to play against each other.
-**Winning and Draw Conditions**: Automatically checks and declares the winner or a draw.
-**Reset Functionality**: Easily reset the game board for a new match.
-**User-Friendly Interface**: An interactive and easy-to-use interface.
+-**Two Player Mode**: Basic functionality for two players to play against each other.
+-**Winning and Draw Conditions**: Automatically checks and declares the winner or a draw.
+-**Reset Functionality**: Easily reset the game board for a new match.
+-**User-Friendly Interface**: An interactive and easy-to-use interface.
 
 ### Technologies Used
 
-**HTML**: To structure the web application.
-**CSS**: To style the web application.
-**JavaScript**: To implement the functionality of the game.
+-**HTML**: To structure the web application.
+-**CSS**: To style the web application.
+-**JavaScript**: To implement the functionality of the game.
